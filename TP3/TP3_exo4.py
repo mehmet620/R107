@@ -14,4 +14,4 @@ elif choix == "while":
         print(f"Après multiplication par {i}, la factorielle vaut {fact}")
         i += 1
 else:
-    print("Choix invalide !")
+    print("Choix invalide .")
