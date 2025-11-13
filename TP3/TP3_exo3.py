@@ -9,11 +9,11 @@ guess = int(input("Devinez le nombre mystère (entre 0 et 100) : "))
 while guess != x:
     compteur += 1
     if guess < x:
-        print("Trop petit !")
+        print("Plus haut !")
     else:
-        print("Trop grand !")
+        print("Plus petit !")
     guess = int(input("Essayez encore : "))
 
 compteur += 1
-print("Bravo ! Le nombre mystère était", x)
-print("Vous l'avez trouvé en", compteur, "essai(s).")
+print("Bravo le nombre mystère était", x)
+print("Vous l'avez trouvé en", compteur, "essais.")
