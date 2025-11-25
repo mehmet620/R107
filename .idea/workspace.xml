@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b2fea24-5b07-4376-a13a-ebee87c0d268" name="Changes" comment="5.5" />
+    <list default="true" id="4b2fea24-5b07-4376-a13a-ebee87c0d268" name="Changes" comment="5.5">
+      <change afterPath="$PROJECT_DIR$/TP4/TP4_exo8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP4/TP4_exo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/TP4_exo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP4/TP4_exo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/TP4_exo4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP4/TP4_exo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/TP4_exo5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP4/TP4_exo6.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/TP4_exo6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TP4/TP4_exo7.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/TP4_exo7.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,18 +29,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mehmet620"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mehmet620&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mehmet620/R107.git",
-    "accountId": "7b268a80-83cb-4dd1-a750-0f650e1ef798"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mehmet620/R107.git&quot;,
+    &quot;accountId&quot;: &quot;7b268a80-83cb-4dd1-a750-0f650e1ef798&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -43,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.TP2_exo3circulaire.executor": "Run",
     "Python.TP2_exo6.executor": "Run",
     "Python.TP3_exo1.executor": "Run",
@@ -50,8 +59,13 @@
     "Python.TP3_exo5.executor": "Run",
     "Python.TP4_exo1.executor": "Run",
     "Python.TP4_exo2.executor": "Run",
+    "Python.TP4_exo5.executor": "Run",
+    "Python.TP4_exo6.executor": "Run",
+    "Python.TP4_exo7.executor": "Run",
+    "Python.TP4_exo8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
