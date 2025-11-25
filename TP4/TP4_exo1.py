@@ -1,4 +1,4 @@
-x = float(input("Vous cherchez la table de multiplication de quel nombre ? :  "))
+x = float(input("Vous cherchez la table de multiplicationn de quel nombre ? :  "))
 
 table = []
 

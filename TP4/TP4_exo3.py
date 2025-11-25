@@ -21,4 +21,4 @@ produit_scalaire = 0
 for i in range(n):
     produit_scalaire += v1[i] * v2[i]
 
-print(f"Le produit scalaire de v1 par v2 vaut {produit_scalaire}")
+print(f"Le produit scalaire de v1 par v2 vaux {produit_scalaire}")
