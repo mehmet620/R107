@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2fea24-5b07-4376-a13a-ebee87c0d268" name="Changes" comment="5.5">
-      <change afterPath="$PROJECT_DIR$/TP4/TP4_exo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/TP4_exo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/TP5_exo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/TP5_exo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/TP5_exo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP5/TP5_exo5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP4/TP4_exo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/TP4_exo2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP4/TP4_exo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/TP4_exo4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP4/TP4_exo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/TP4_exo5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP4/TP4_exo6.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/TP4_exo6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP4/TP4_exo7.py" beforeDir="false" afterPath="$PROJECT_DIR$/TP4/TP4_exo7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +58,15 @@
     "Python.TP3_exo5.executor": "Run",
     "Python.TP4_exo1.executor": "Run",
     "Python.TP4_exo2.executor": "Run",
+    "Python.TP4_exo4.executor": "Run",
     "Python.TP4_exo5.executor": "Run",
     "Python.TP4_exo6.executor": "Run",
     "Python.TP4_exo7.executor": "Run",
     "Python.TP4_exo8.executor": "Run",
+    "Python.TP5_exo1.executor": "Run",
+    "Python.TP5_exo2.executor": "Run",
+    "Python.TP5_exo3.executor": "Run",
+    "Python.TP5_exo5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
