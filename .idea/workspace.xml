@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2fea24-5b07-4376-a13a-ebee87c0d268" name="Changes" comment="5.5">
-      <change afterPath="$PROJECT_DIR$/TP6/TP6_exo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP6/TP6_exo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP6/TP6_exo3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP6/TP6_exo4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP6/TP6_exo5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP7/TP7_exo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini project/projet_labyrinthe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +30,12 @@
     &quot;assignee&quot;: &quot;mehmet620&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/mehmet620/R107.git&quot;,
-    &quot;accountId&quot;: &quot;7b268a80-83cb-4dd1-a750-0f650e1ef798&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mehmet620/R107.git",
+    "accountId": "7cc08c62-09a2-4ffd-970d-6b52e03bfcb3"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -74,6 +69,7 @@
     "Python.TP6_exo4.executor": "Run",
     "Python.TP6_exo5.executor": "Run",
     "Python.TP7_exo1.executor": "Run",
+    "Python.projet_labyrinthe.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -118,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763048745463</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5.5">
+      <option name="closed" value="true" />
+      <created>1764926594408</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764926594408</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
