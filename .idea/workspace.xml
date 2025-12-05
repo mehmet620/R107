@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b2fea24-5b07-4376-a13a-ebee87c0d268" name="Changes" comment="5.5">
-      <change afterPath="$PROJECT_DIR$/TP5/TP4_exo4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP5/TP5_exo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP5/TP5_exo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP5/TP5_exo3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP5/TP5_exo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/TP6_exo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/TP6_exo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/TP6_exo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/TP6_exo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP6/TP6_exo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP7/TP7_exo1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +68,12 @@
     "Python.TP5_exo2.executor": "Run",
     "Python.TP5_exo3.executor": "Run",
     "Python.TP5_exo5.executor": "Run",
+    "Python.TP6_ex1.executor": "Run",
+    "Python.TP6_exo2.executor": "Run",
+    "Python.TP6_exo3.executor": "Run",
+    "Python.TP6_exo4.executor": "Run",
+    "Python.TP6_exo5.executor": "Run",
+    "Python.TP7_exo1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
